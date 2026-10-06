@@ -1,7 +1,7 @@
 # OS Synchronization Assignment - Readers-Writers & Dining Philosophers
 
 **Student name:** Disha Kumari
-**Registration / USN:** NNM24IS074
+**USN:** NNM24IS074
 **Course:** Operating Systems
 
 ## 1. What this project contains
