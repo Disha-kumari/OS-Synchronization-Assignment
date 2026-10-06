@@ -1,0 +1,4 @@
+python3 readers_writers/semaphore/rw_semaphore.py
+python3 readers_writers/monitor/rw_monitor.py
+python3 dining_philosophers/semaphore/dp_semaphore.py
+python3 dining_philosophers/monitor/dp_monitor.py
